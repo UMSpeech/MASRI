@@ -22,7 +22,7 @@ The following are datasets prepared in the [MASRI](https://www.um.edu.mt/project
 ## Dev and test data
 | Dataset | Size | Type |Download|
 |---------|------|------|--------|
-|MASRI-Dev|1h|Read speech||[Download](https://drive.google.com/file/d/1Qa2DT-FqQbmOXbbJSMUa-KGdrXrrSv2Q/view?usp=sharing)|
+|MASRI-Dev|1h|Spontaneous speech|[Download](https://drive.google.com/file/d/1Qa2DT-FqQbmOXbbJSMUa-KGdrXrrSv2Q/view?usp=sharing)|
 |MASRI-Test|1h|Spontaneous speech|[Download](https://drive.google.com/file/d/1U2YNwg2-vmThs_dhZd7xhGAmcf1eKC5P/view?usp=sharing)|
 
 ### General data characteristics
