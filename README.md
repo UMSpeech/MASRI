@@ -9,28 +9,28 @@ The following are datasets prepared in the [MASRI](https://www.um.edu.mt/project
 
 ## Training data
 
-| Dataset | Size | Type |#female voices|#male voices|
-|---------|------|------|------------|--------------|
-|MASRI-Headset v2|6h39m|Read speech|13|12|
-|MASRI-Farfield|9h37m|Read speech|13|12
-|MASRI-Booths|2h27m|Read speech|2|3|
-|MASRI-MEP|1h17m|Spontaneous speech|4|2|
-|MASRI-COMVO|7h29m|Read speech|59|88|
-|MASRI-TUBE|13h17m|Spontaneous speech|13|39|
-|MASRI-Synthetic|99h18m|Synthesized speech|105|105|
+| Dataset | Size | Type |#female voices|#male voices|Download|
+|---------|------|------|------------|--------------|--------|
+|MASRI-Headset v2|6h39m|Read speech|13|12|[Download](https://drive.google.com/file/d/1fNjXYUQmXXV6q-A18zq6BTjxtjZeUhXE/view?usp=sharing)|
+|MASRI-Farfield|9h37m|Read speech|13|12|[Download](https://drive.google.com/file/d/1m0uGzxUf7gcJLhnodq2lrKZJvZcnlz0F/view?usp=sharing)|
+|MASRI-Booths|2h27m|Read speech|2|3|[Download](https://drive.google.com/file/d/1Og9Kz-N2EtRfp5Say3A10Rz_JM-E_Hq5/view?usp=sharing)|
+|MASRI-MEP|1h17m|Spontaneous speech|4|2|[Download](https://drive.google.com/file/d/1qcB6it3TQw0be0ZAzELz-oy0oFoBmoaC/view?usp=sharing)|
+|MASRI-COMVO|7h29m|Read speech|59|88|[Download](https://drive.google.com/file/d/1AMFIq5dJOvANsmkJjjRZrZ8F64yrxA2_/view?usp=sharing)|
+|MASRI-TUBE|13h17m|Spontaneous speech|13|39|[Download]()|
+|MASRI-Synthetic|99h18m|Synthesized speech|105|105|[Download](https://drive.google.com/file/d/1NL5zHuq3pR9K3EnuWfCn-LtwhALdIQhU/view?usp=sharing)|
 
 ## Dev and test data
-| Dataset | Size | Type |
-|---------|------|------|
-|MASRI-Dev|6h|Read speech|
-|MASRI-Test|6h|Spontaneous speech|
+| Dataset | Size | Type |Download|
+|---------|------|------|--------|
+|MASRI-Dev|1h|Read speech||[Download](https://drive.google.com/file/d/1Qa2DT-FqQbmOXbbJSMUa-KGdrXrrSv2Q/view?usp=sharing)|
+|MASRI-Test|1h|Spontaneous speech|[Download](https://drive.google.com/file/d/1U2YNwg2-vmThs_dhZd7xhGAmcf1eKC5P/view?usp=sharing)|
 
 ### General data characteristics
 All the dataset share the following characteristics
 - Audio files are distributed in a 16khz@16bit mono format.
 - Every audio file has an ID that is compatible with ASR engines such as 
   Kaldi and CMU-Sphinx.
-- Transcriptions are lowercase. No punctuation marks are permitted 
+- Transcriptions are lowercase. Unless otherwise stated below, no punctuation marks are permitted 
   except dashes (-) and apostrophes (') because these belong to the Maltese 
   orthography.
 
