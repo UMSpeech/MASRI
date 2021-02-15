@@ -16,7 +16,7 @@ The following are datasets prepared in the [MASRI](https://www.um.edu.mt/project
 |MASRI-Booths|2h27m|Read speech|2|3|[Download](https://drive.google.com/file/d/1Og9Kz-N2EtRfp5Say3A10Rz_JM-E_Hq5/view?usp=sharing)|
 |MASRI-MEP|1h17m|Spontaneous speech|4|2|[Download](https://drive.google.com/file/d/1qcB6it3TQw0be0ZAzELz-oy0oFoBmoaC/view?usp=sharing)|
 |MASRI-COMVO|7h29m|Read speech|59|88|[Download](https://drive.google.com/file/d/1AMFIq5dJOvANsmkJjjRZrZ8F64yrxA2_/view?usp=sharing)|
-|MASRI-TUBE|13h17m|Spontaneous speech|13|39|[Download]()|
+|MASRI-TUBE|13h17m|Spontaneous speech|13|39|[Download](https://drive.google.com/file/d/130XaeiKoXPMdkv-L9fk3TLVLhVzPu8AO/view?usp=sharing)|
 |MASRI-Synthetic|99h18m|Synthesized speech|105|105|[Download](https://drive.google.com/file/d/1NL5zHuq3pR9K3EnuWfCn-LtwhALdIQhU/view?usp=sharing)|
 
 ## Dev and test data
