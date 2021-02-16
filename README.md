@@ -7,26 +7,27 @@ Masri is a project at the [University of Malta](https://www.um.edu.mt) which dev
 # Data
 The following are datasets prepared in the [MASRI](https://www.um.edu.mt/projects/masri/) project. All data is released for non-commercial use. The table below summarises the size of each dataset with a download link. The characteristics of each dataset are described below.
 
-## Terms and conditions
-Please read our [license agreement](https://github.com/UMSpeech/MASRI/blob/main/Non-Commercial%20License%20-%20Distro.pdf) before downloading this data.
+## How to download
+To download this data, please visit the [MASRI project web page](https://www.um.edu.mt/projects/masri/#data), check the terms and conditions, and retrieve the data.
+
 
 ## Training data
 
-| Dataset | Size | Type |#female voices|#male voices|Download|
-|---------|------|------|------------|--------------|--------|
-|MASRI-Headset v2|6h39m|Read speech|13|12|[Download](https://drive.google.com/file/d/1fNjXYUQmXXV6q-A18zq6BTjxtjZeUhXE/view?usp=sharing)|
-|MASRI-Farfield|9h37m|Read speech|13|12|[Download](https://drive.google.com/file/d/1m0uGzxUf7gcJLhnodq2lrKZJvZcnlz0F/view?usp=sharing)|
-|MASRI-Booths|2h27m|Read speech|2|3|[Download](https://drive.google.com/file/d/1Og9Kz-N2EtRfp5Say3A10Rz_JM-E_Hq5/view?usp=sharing)|
-|MASRI-MEP|1h17m|Spontaneous speech|4|2|[Download](https://drive.google.com/file/d/1qcB6it3TQw0be0ZAzELz-oy0oFoBmoaC/view?usp=sharing)|
-|MASRI-COMVO|7h29m|Read speech|59|88|[Download](https://drive.google.com/file/d/1AMFIq5dJOvANsmkJjjRZrZ8F64yrxA2_/view?usp=sharing)|
-|MASRI-TUBE|13h17m|Spontaneous speech|13|39|[Download](https://drive.google.com/file/d/130XaeiKoXPMdkv-L9fk3TLVLhVzPu8AO/view?usp=sharing)|
-|MASRI-Synthetic|99h18m|Synthesized speech|105|105|[Download](https://drive.google.com/file/d/1NL5zHuq3pR9K3EnuWfCn-LtwhALdIQhU/view?usp=sharing)|
+| Dataset | Size | Type |#female voices|#male voices|
+|---------|------|------|------------|--------------|
+|MASRI-Headset v2|6h39m|Read speech|13|12|
+|MASRI-Farfield|9h37m|Read speech|13|12|
+|MASRI-Booths|2h27m|Read speech|2|3|
+|MASRI-MEP|1h17m|Spontaneous speech|4|2|
+|MASRI-COMVO|7h29m|Read speech|59|88|
+|MASRI-TUBE|13h17m|Spontaneous speech|13|39|
+|MASRI-Synthetic|99h18m|Synthesized speech|105|105|
 
 ## Dev and test data
-| Dataset | Size | Type |Download|
-|---------|------|------|--------|
-|MASRI-Dev|1h|Spontaneous speech|[Download](https://drive.google.com/file/d/1Qa2DT-FqQbmOXbbJSMUa-KGdrXrrSv2Q/view?usp=sharing)|
-|MASRI-Test|1h|Spontaneous speech|[Download](https://drive.google.com/file/d/1U2YNwg2-vmThs_dhZd7xhGAmcf1eKC5P/view?usp=sharing)|
+| Dataset | Size | Type |
+|---------|------|------|
+|MASRI-Dev|1h|Spontaneous speech|
+|MASRI-Test|1h|Spontaneous speech|
 
 ### General data characteristics
 All the dataset share the following characteristics
