@@ -7,6 +7,9 @@ Masri is a project at the [University of Malta](https://www.um.edu.mt) which dev
 # Data
 The following are datasets prepared in the [MASRI](https://www.um.edu.mt/projects/masri/) project. All data is released for non-commercial use. The table below summarises the size of each dataset with a download link. The characteristics of each dataset are described below.
 
+## Terms and conditions
+Please read our [license agreement](https://github.com/UMSpeech/MASRI/blob/main/Non-Commercial%20License%20-%20Distro.pdf) before downloading this data.
+
 ## Training data
 
 | Dataset | Size | Type |#female voices|#male voices|Download|
