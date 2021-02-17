@@ -1,5 +1,5 @@
 # from .maltese_g2p import transcribe
-from .maltese_g2p import g2p_cw_rules
+from masri.transcribe.g2p.maltese_g2p import g2p_cw_rules
 from masri.tokenise.tokenise import MTWordTokenizer
 
 tokeniser = MTWordTokenizer()
