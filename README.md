@@ -4,6 +4,26 @@ Maltese Automatic Speech Recognition
 # About the project
 Masri is a project at the [University of Malta](https://www.um.edu.mt) which developed the foundations for Automatic Speech Recognition for the Maltese Language. For more information about MASRI, visit our website https://www.um.edu.mt/projects/masri/
 
+# Utilities
+We provide a few utilities for transcription and conversion of Maltese text. Demos are hosted on the [Maltese Language Resource Server](https://mlrs.research.um.edu.mt/index.php?page=demos), where a web service API is also provided.
+
+## Phonetic transcription
+A rule-based script to transcribe Maltese text into IPA notation. An example is shown below.
+
+```
+>> from masri.transcribe.g2p import text2phon
+>> print(text2phon("Ilbieraħ mort s'Għawdex"))
+ɪlbɪːrɐh mɔrt sɐʊdɛʃ
+```
+## Numbers to words
+An extension of [num2words](https://github.com/savoirfairelinux/num2words) for the Maltese language. An example is shown below.
+
+```
+>> from masri.transcribe.num2text import num2text
+>> print(num2text(301000))
+tliet mitt elf u  elf
+```
+
 # Data
 The following are datasets prepared in the [MASRI](https://www.um.edu.mt/projects/masri/) project. All data is released for non-commercial use. The table below summarises the size of each dataset with a download link. The characteristics of each dataset are described below.
 
